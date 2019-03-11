@@ -38,6 +38,17 @@ package pinterest.src;
  * （d1, f1) (d2, f2)....(dn, fn), d1~dn是in sorted order.
  * 然后问该如何优化存储空间。这一题是开放式的，之前也没做过SD的问题，
  * 所以被问的有点懵。。。给了很多提示，最后讲出了一些idea来。自我感觉不太好。。。
+ * <<<<<<< HEAD
+ * <p>
+ * https://medium.com/the-graph/applying-deep-learning-to-related-pins-a6fee3c92f5e
+ * <p>
+ * https://medium.com/the-graph/applying-deep-learning-to-related-pins-a6fee3c92f5e
+ * <p>
+ * https://medium.com/the-graph/applying-deep-learning-to-related-pins-a6fee3c92f5e
+ * <p>
+ * https://medium.com/the-graph/applying-deep-learning-to-related-pins-a6fee3c92f5e
+ * <p>
+ * https://medium.com/the-graph/applying-deep-learning-to-related-pins-a6fee3c92f5e
  * <p>
  * https://medium.com/the-graph/applying-deep-learning-to-related-pins-a6fee3c92f5e
  */
